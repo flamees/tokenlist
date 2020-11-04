@@ -1,9 +1,9 @@
 {
-  "name": "tsc",
+  "name": "TSC",
   "logoURI": "https://s1.ax1x.com/2020/11/04/Bgq3W9.png",
   "keywords": [
       "defi",
-      "tsc",
+      "TSC",
       "yield"
     ],
     "timestamp": "2020-09-01T01:40:34.305Z",
@@ -11,8 +11,8 @@
       {
       "chainId": 1,
       "address": "0x8d223Dc8BDa9e1726c430549E7163ECCc492D176",
-      "name": "tsc",
-      "symbol": "tsc",
+      "name": "TSC",
+      "symbol": "TSC",
       "decimals": 18,
       "logoURI": "https://s1.ax1x.com/2020/11/04/Bgq3W9.png"
       }

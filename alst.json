@@ -1,0 +1,25 @@
+{
+  "name": "ALSTLIST",
+  "logoURI": "https://s3.ax1x.com/2020/11/13/D9nK5d.png",
+  "keywords": [
+      "defi",
+      "ALST",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xf280730aba4dcbad09441bbd21e5d13d890bd68b",
+      "name": "ALST",
+      "symbol": "ALST",
+      "decimals": 18,
+      "logoURI": "https://s3.ax1x.com/2020/11/13/D9nK5d.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}

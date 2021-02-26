@@ -1,0 +1,25 @@
+{
+  "name": "MDF",
+  "logoURI": "https://s3.ax1x.com/2021/02/26/yxhbYn.jpg",
+  "keywords": [
+      "defi",
+      "MDF",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x7a4950f2d140bdb584388e821af9f0947c0397cf",
+      "name": "MDF",
+      "symbol": "MDF",
+      "decimals": 18,
+      "logoURI": "https://s3.ax1x.com/2021/02/26/yxhbYn.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "hns",
+  "logoURI": "https://z3.ax1x.com/2021/04/09/cUy3Hx.jpg",
+  "keywords": [
+      "defi",
+      "hns",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xe56150cb8333f2f701f0bc047fa3de2cd923782f",
+      "name": "hns",
+      "symbol": "hns",
+      "decimals": 18,
+      "logoURI": "https://z3.ax1x.com/2021/04/09/cUy3Hx.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}

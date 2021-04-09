@@ -1,20 +1,20 @@
 {
-  "name": "MDF",
-  "logoURI": "https://s3.ax1x.com/2021/02/26/yxhbYn.jpg",
+  "name": "YFS.FINANCE",
+  "logoURI": "https://z3.ax1x.com/2021/04/09/ctrxWd.png",
   "keywords": [
       "defi",
-      "MDF",
+      "YFS.FINANCE",
       "yield"
     ],
     "timestamp": "2020-09-01T01:40:34.305Z",
     "tokens": [
       {
       "chainId": 1,
-      "address": "0x7a4950f2d140bdb584388e821af9f0947c0397cf",
-      "name": "MDF",
-      "symbol": "MDF",
+      "address": "0x92d984ff5593fcc209adb525adef90d119eb0d9d",
+      "name": "YFS.FINANCE",
+      "symbol": "YFS",
       "decimals": 18,
-      "logoURI": "https://s3.ax1x.com/2021/02/26/yxhbYn.jpg"
+      "logoURI": "https://z3.ax1x.com/2021/04/09/ctrxWd.png"
       }
     ],
     "version": {

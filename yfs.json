@@ -1,9 +1,9 @@
 {
-  "name": "MFA",
+  "name": "YFS",
   "logoURI": "https://z3.ax1x.com/2021/04/09/ctrxWd.png",
   "keywords": [
       "defi",
-      "MFA",
+      "YFS",
       "yield"
     ],
     "timestamp": "2020-10-17T01:40:34.305Z",
@@ -11,8 +11,8 @@
       {
       "chainId": 1,
       "address": "0x92d984ff5593fcc209adb525adef90d119eb0d9d",
-      "name": "MFA Coin",
-      "symbol": "MFA",
+      "name": "YFS.FINANCE",
+      "symbol": "YFS",
       "decimals": 18,
       "logoURI": "https://z3.ax1x.com/2021/04/09/ctrxWd.png"
       }

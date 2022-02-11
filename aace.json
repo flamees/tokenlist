@@ -1,0 +1,25 @@
+{
+  "name": "AACE",
+  "logoURI": "https://s4.ax1x.com/2022/02/11/HUjvAe.png",
+  "keywords": [
+      "defi",
+      "AACE",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xBcCf7f0D846a051b8845BD216eE0ffB5131F9873",
+      "name": "Balance.Finance",
+      "symbol": "AACE",
+      "decimals": 18,
+      "logoURI": "https://s4.ax1x.com/2022/02/11/HUjvAe.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "BRC",
+  "logoURI": "https://gateway.pinata.cloud/ipfs/QmSN4v1ZwhX2RS6dQrZLPF2DnW7WRNM71bYYmPM8zU8vez",
+  "keywords": [
+      "defi",
+      "AACE",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xde5847cFACf0d100e4fa6A67BaF18E590857A214",
+      "name": "Bridge coin",
+      "symbol": "BRC",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmSN4v1ZwhX2RS6dQrZLPF2DnW7WRNM71bYYmPM8zU8vez"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
